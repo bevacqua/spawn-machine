@@ -1,0 +1,19 @@
+{
+  "name": "spawn-machine",
+  "description": "",
+  "homepage": "https://github.com/bevacqua/spawn-machine",
+  "author": {
+    "name": "Nicolas Bevacqua",
+    "email": "ng@bevacqua.io",
+    "url": "http://bevacqua.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bevacqua/spawn-machine.git"
+  },
+  "version": "0.1.0",
+  "licenses": "MIT",
+  "dependencies": {
+    "space-machine": "~0.1.0"
+  }
+}

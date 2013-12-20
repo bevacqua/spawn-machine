@@ -1,10 +1,10 @@
 
-var spawn = require('child_process').spawn;
+var child = require('child_process');
 var machine = require('space-machine');
 
 module.exports = function (command, options) {
 	var args = machine(command);
 	var program = args.shift();
 
-	spawn(program, args, options);
+	return child.spawn(program, args, options);
 };

@@ -1,6 +1,6 @@
 # spawn-machine
 
-> 
+> Spawn processes with the friendly API found in .exec!
 
 # Install
 

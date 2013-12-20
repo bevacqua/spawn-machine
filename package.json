@@ -1,6 +1,6 @@
 {
   "name": "spawn-machine",
-  "description": "",
+  "description": "Spawn processes with the friendly API found in .exec!",
   "homepage": "https://github.com/bevacqua/spawn-machine",
   "author": {
     "name": "Nicolas Bevacqua",
